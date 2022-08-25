@@ -1,0 +1,6 @@
+{
+    "appDescription": "this is a counter app!",
+    "@appDescription": {
+        "description": "The description which describes the app"
+    }
+}
